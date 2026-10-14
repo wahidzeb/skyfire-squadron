@@ -1,0 +1,42 @@
+{
+  "id": "/skyfire-squadron/",
+  "name": "Skyfire Squadron",
+  "short_name": "Skyfire",
+  "description": "Skyfire Squadron by Zaib: a cartoony airplane fighter. Drag to fly, auto-fire at enemy planes and drop bombs on battleships, carriers, submarines and island guns across 32 missions in sunny seas, palm isles, frosty fjords and a thunder night. Unlock 5 planes, upgrade, recruit wingmen and beat giant multi-part bosses. Free in your browser.",
+  "lang": "en",
+  "start_url": "/skyfire-squadron/?source=pwa",
+  "scope": "/skyfire-squadron/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#1a78c2",
+  "background_color": "#1a78c2",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/skyfire-squadron/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/skyfire-squadron/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/skyfire-squadron/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/skyfire-squadron/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
